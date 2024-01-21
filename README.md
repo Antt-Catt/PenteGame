@@ -5,4 +5,4 @@ We developed in a group of 3 students a client/server game called [Pente](https:
 
 The graphic interface was designed thanks to the [Tkinter](https://github.com/python/cpython/tree/3.12/Lib/tkinter) lib.
 
-The server was able to support multiple games at a time, in a tournament. Players were winning or losing points if they won or lost.
+The server was able to support multiple games at a time, in a tournament. Players were winning or losing points if they won or lost a game.
